@@ -10,8 +10,7 @@ redirect_from:
 Sorry! The page is under construction! Most of here are still templates, but if you feel free you can come back and check whether there's anything new. 
 \>w<!
 
-Who am I?
-=====
+### Who am I?
 - Year 2 Computer Science student @ Nanyang Technological University, Singapore. 
 - Upcoming Exchange Student @ University of Toronto (2026 Jan - 2026 Apr)
 - Undergrad Researcher @ NTU (2024 Aug - 2025 Jul)
@@ -19,8 +18,7 @@ Who am I?
 - Rhythm Gamer (Maimai, Chunithm, SDVX)
 - LCK T1 & DK Fan (You will probably see me wearing T1 Uniform a lot)
 
-Academic
-=====
+## Academic
 
 Competitive Programming
 -----
@@ -35,12 +33,12 @@ Contest History:
 
 Interests
 -----
-Competitive Programming: Graph Theory, Data Structures
-Mathematics: Probability, Stochastic Processes, Financial Math
+Competitive Programming: Graph Theory, Data Structures\\
+Mathematics: Probability, Stochastic Processes, Financial Math\\
 AI: Deep Learning, Reinforcement Learning
 
-Non-Academics
-=====
+### Non-Academics
+
 Rhythm Games
 -----
 Maimai Rating 15245, SDVX VF15.49 魔騎士, Chunithm 14.10
