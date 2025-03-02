@@ -76,13 +76,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+cp_catagory:
+  icpc:
+    title: 'ICPC'
+  codeforces:
+    title: 'Codeforces'    
+  upsolvings:
+    title: 'Upsolvings'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -223,6 +223,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  competitive_programming:
     output: true
     permalink: /:collection/:path/
 
