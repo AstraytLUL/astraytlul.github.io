@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Sorry! The page is under construction! Most of here are still templates, but if you feel free you can come back and check whether there's anything new. 
-\>w<!
+Sorry! The page is under construction! But feel free to look around \>w<!
 
 ### Who am I?
 - Year 2 Computer Science student @ Nanyang Technological University, Singapore. 
 - Upcoming Exchange Student @ University of Toronto (2026 Jan - 2026 Apr)
+- Upcoming LLM Engineer @ Huawei R&D (2025 Jul - 2025 Dec)
 - Undergrad Researcher @ NTU (2024 Aug - 2025 Jul)
 - Competitive Programmer
 - Rhythm Gamer (Maimai, Chunithm, SDVX)
