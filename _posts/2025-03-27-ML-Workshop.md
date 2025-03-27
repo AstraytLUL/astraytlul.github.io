@@ -6,9 +6,13 @@ tags:
   - Machine Learning
   - Notes
 ---
-This is my first blog post. \\
-Today I attended NUS Hackers x QRT Workshop: Introduction to Machine Learning, and I decided to share what I learned with my notes. It was a really good experience for both learning and network. \\
+
+Today I attended NUS Hackers x QRT Workshop: Introduction to Machine Learning.
+
+I decided to share what I learned with my notes. It was a really good experience for both learning and network.
+
 I thought there was pizza but there wasn't, sorry NF. QAQ
+
 ## Data
 ### Types of data
 - Structured Data: Key->Value, Relational DB, Documents, Graph DB, Vectors, etc.
