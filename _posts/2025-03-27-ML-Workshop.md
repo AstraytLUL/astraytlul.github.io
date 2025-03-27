@@ -95,7 +95,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
 * L1, L2 Regularization
   * To avoid over/underfitting.
   * Penalize high-value, correlated coefficients.
-  * Learn more [here](https://en.wikipedia.org/wiki/Regularization_(mathematics))
+  * Learn more [here](https://www.geeksforgeeks.org/regularization-in-machine-learning/)
   * L1: Least Absolute Shrinkage and Selection Operator (LASSO)
   * L2: Ridge Regression
 
