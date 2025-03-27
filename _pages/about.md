@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Sorry! The page is under construction! But feel free to look around \>w<!
-
 ### Who am I?
 - Year 2 Computer Science student @ Nanyang Technological University, Singapore. 
 - Upcoming Exchange Student @ University of Toronto (2026 Jan - 2026 Apr)
-- Upcoming LLM Engineer @ Huawei R&D (2025 Jul - 2025 Dec)
+- Upcoming LLM Engineer @ Huawei R&D (2025 May - 2025 Dec)
 - Undergrad Researcher @ NTU (2024 Aug - 2025 Jul)
 - Competitive Programmer
 - Rhythm Gamer (Maimai, Chunithm, SDVX)
@@ -31,14 +29,8 @@ A link to my [Codeforces Profile](https://codeforces.com/profile/Astrayt). My cu
 - 2024 ICPC Asia Pacific Championship, Honorable Mention
 - 2024 ICPC Jakarta Regional, Rank 20
 
-### Interests
-
-Competitive Programming: Graph Theory, Data Structures\\
-Mathematics: Probability, Stochastic Processes, Financial Math\\
-AI: Deep Learning, Reinforcement Learning
-
 ## Non-Academics
 
 ### Rhythm Games
 
-Maimai Rating 15245, SDVX VF15.49 魔騎士, Chunithm 14.10
+Maimai Rating 15324, SDVX VF15.49 魔騎士, Chunithm 14.07
