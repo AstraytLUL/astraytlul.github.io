@@ -1,7 +1,7 @@
 ---
-title: 'NUS Hackers x QRT - Intro to ML Notes'
+title: 'NUS Hackers x QRT - Intro to ML Workshop Notes'
 date: 2025-03-27
-permalink: /blogs/2025/03/intro-to-ml/
+permalink: /blogs/2025/03/qrt-intro-to-ml/
 tags:
   - Machine Learning
   - Notes
