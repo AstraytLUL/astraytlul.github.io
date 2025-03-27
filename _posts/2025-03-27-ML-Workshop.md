@@ -180,5 +180,5 @@ Obtain \\(\rightarrow\\) Scrub \\(\rightarrow\\) Explore \\(\rightarrow\\) Model
 
 ## Notebooks
 
-[CNN and Transfer Learning](https://www.kaggle.com/code/jonaspalucibarbosa/chest-x-ray-pneumonia-cnn-transfer-learning)
-[Imbalanced Dataset](https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
+* [CNN and Transfer Learning](https://www.kaggle.com/code/jonaspalucibarbosa/chest-x-ray-pneumonia-cnn-transfer-learning) 
+* [Imbalanced Dataset](https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
