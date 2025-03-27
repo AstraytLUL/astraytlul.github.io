@@ -15,7 +15,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
 
 ## Data
 ### Types of data
-- Structured Data: Key->Value, Relational DB, Documents, Graph DB, Vectors, etc.
+- Structured Data: Key \\(\rightarrow\\) Value, Relational DB, Documents, Graph DB, Vectors, etc.
 - Semi-Structured Data: JSON, XML
 - Unstructured Data: Videos, Images
 ### Data Cleaning
@@ -29,7 +29,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
 - Data Standardization
 	- Z-Score, might break the relation between 2 datasets
 - Data Normalization
-	- Put all value into an interval e.g. $[0, 1]$.
+	- Put all value into an interval e.g. \\([0, 1]\\).
 ### Data Split
 - Train/Validation/Test datasets with proper ratio
 - Cross-validation: K-fold, stratified K-fold, leave-one-out
@@ -41,7 +41,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
 - Batch processing at every stage
 - Asynchronous execution
 - Prefetching queue hides latency (buffering)
-- Longer queue $\rightarrow$ bigger memory footprint
+- Longer queue \\(\rightarrow\\) bigger memory footprint
 ## Models
 ### Model Layers
 - Embedding Layers
@@ -63,7 +63,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
 - Attention Layer
 	- Function: To improve recurrent layer. Build a query-key to create inner product to expand their influence. Allow the model to weight the importance of element within same input sequence, capturing long-range dependences
 	- Usage: NLP, Transformers. To model relationships between words irrespective of their position
-	- Ref: arxiv 1706.03762
+	- [Reference: Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 ### Model Architecture
 - Dense vs. Sparse (High computation cost vs. Performance)
 	- Using different way to store data, just like your trade-off between adjacent matrix and adjacent list.
@@ -74,7 +74,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
 	- Mean Square Error (MSE)
 	- Mean Absolute Error (MAE)
 	- Root Mean Square Error (RMSE)
-	- $R^2$ value: $1 - \frac{\sum{(y_i-\hat y)^2}}{\sum{(y_i-\bar y)^2}}$ 
+	- \\(R^2\\) value: \\(1 - \frac{\sum{(y_i-\hat y)^2}}{\sum{(y_i-\bar y)^2}}\\)
 - L1, L2 Regularization
 	- To avoid over/underfitting.
 	- Penalize high-value, correlated coefficients.
@@ -143,6 +143,7 @@ Lower Cost!
 - Stock Price Prediction
 - Fraud Detection in Finance
 ## OSEMN
-Obtain $\rightarrow$ Scrub $\rightarrow$ Explore $\rightarrow$ Model $\rightarrow$ Interpret
+Obtain \\(\rightarrow\\) Scrub \\(\rightarrow\\) Explore \\(\rightarrow\\) Model \\(\rightarrow\\) Interpret
 ## Notebooks
-They shared 2 notebooks on kaggle but I'm not sure whether I can share them or not, sorry.
+[CNN and Transfer Learning](https://www.kaggle.com/code/jonaspalucibarbosa/chest-x-ray-pneumonia-cnn-transfer-learning)
+[Imbalanced Dataset](https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
