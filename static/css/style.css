@@ -4,24 +4,101 @@
     box-sizing: border-box;
 }
 
+:root {
+    --bg-color: #fff;
+    --text-color: #333;
+    --text-secondary: #666;
+    --link-color: #0066cc;
+    --link-visited: #551a8b;
+    --border-color: #eee;
+}
+
+[data-theme="dark"] {
+    --bg-color: #212932;
+    --text-color: #e0e0e0;
+    --text-secondary: #a0a0a0;
+    --link-color: #6db3f2;
+    --link-visited: #a0c4e8;
+    --border-color: #333;
+}
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     line-height: 1.6;
     max-width: 700px;
     margin: 0 auto;
     padding: 2rem 1rem;
-    color: #333;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: var(--link-visited);
 }
 
 header {
     margin-bottom: 3rem;
 }
 
-header nav a {
-    font-size: 1.2rem;
+header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-title {
+    font-size: 2rem;
     font-weight: bold;
-    color: #333;
+    color: var(--text-color);
     text-decoration: none;
+}
+
+.site-title:visited {
+    color: var(--text-color);
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+}
+
+.nav-links a {
+    margin-left: 1.5rem;
+    color: var(--text-secondary);
+}
+
+.nav-links a:visited {
+    color: var(--text-secondary);
+}
+
+.nav-links a:hover {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.theme-toggle {
+    background: none;
+    border: 1px solid var(--text-secondary);
+    border-radius: 4px;
+    padding: 2px 8px;
+    cursor: pointer;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    margin-left: 1.5rem;
+}
+
+.theme-toggle:hover {
+    color: var(--text-color);
+    border-color: var(--text-color);
 }
 
 main h1 {
@@ -33,21 +110,17 @@ main h2 {
     margin-bottom: 1rem;
 }
 
+main h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
 article {
     margin-bottom: 1rem;
 }
 
-article a {
-    color: #0066cc;
-    text-decoration: none;
-}
-
-article a:hover {
-    text-decoration: underline;
-}
-
 article time {
-    color: #666;
+    color: var(--text-secondary);
     font-size: 0.9rem;
     margin-left: 0.5rem;
 }
@@ -56,8 +129,40 @@ article time {
     margin-top: 2rem;
 }
 
+.content ul, .content ol {
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.content ul ul, .content ol ol, .content ul ol, .content ol ul {
+    margin-bottom: 0;
+}
+
+.content li {
+    margin-bottom: 0.25rem;
+}
+
+.content p {
+    margin-bottom: 1rem;
+}
+
+main > ul {
+    list-style: none;
+    margin-left: 0;
+}
+
+main > ul li {
+    margin-bottom: 0.5rem;
+}
+
+main > ul li time {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-left: 0.5rem;
+}
+
 footer {
     margin-top: 4rem;
-    color: #666;
+    color: var(--text-secondary);
     font-size: 0.9rem;
 }

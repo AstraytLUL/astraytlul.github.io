@@ -1,9 +1,10 @@
 {{ define "main" }}
-<h1>{{ .Site.Title }}</h1>
-<p>Welcome to my blog.</p>
+<h2>Welcome! >w<</h2>
+<p>This is a place where I post about everything.</p>
+<p>I post in English and/or 繁體中文</p>
 
 <h2>Recent Posts</h2>
-{{ range first 10 .Site.RegularPages }}
+{{ range first 10 (where .Site.RegularPages "Section" "posts") }}
     <article>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         <time>{{ .Date.Format "2006-01-02" }}</time>

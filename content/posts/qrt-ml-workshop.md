@@ -16,7 +16,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
 
 ### Types of data
 
-* Structured Data: Key \\(\rightarrow\\) Value, Relational DB, Documents, Graph DB, Vectors, etc.
+* Structured Data: Key $\rightarrow$ Value, Relational DB, Documents, Graph DB, Vectors, etc.
 * Semi-Structured Data: JSON, XML
 * Unstructured Data: Videos, Images
 
@@ -32,7 +32,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
 * Data Standardization
   * Z-Score, might break the relation between 2 datasets
 * Data Normalization
-  * Put all value into an interval e.g. \\([0, 1]\\).
+  * Put all value into an interval e.g. $[0, 1]$.
 
 ### Data Split
 
@@ -50,7 +50,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
 * Batch processing at every stage
 * Asynchronous execution
 * Prefetching queue hides latency (buffering)
-* Longer queue \\(\rightarrow\\) bigger memory footprint
+* Longer queue $\rightarrow$ bigger memory footprint
 
 ## Models
 
@@ -90,7 +90,7 @@ I thought there was pizza but there wasn't, sorry NF. QAQ
   * Mean Square Error (MSE)
   * Mean Absolute Error (MAE)
   * Root Mean Square Error (RMSE)
-  * \\(R^2\\) value: \\(1 - \frac{\sum{(y_i-\hat y)^2}}{\sum{(y_i-\bar y)^2}}\\)
+  * $R^2$ value: $1 - \frac{\sum{(y_i-\hat y)^2}}{\sum{(y_i-\bar y)^2}}$
 * L1, L2 Regularization
   * To avoid over/underfitting.
   * Penalize high-value, correlated coefficients.
@@ -175,7 +175,7 @@ Lower Cost!
 
 ## OSEMN
 
-Obtain \\(\rightarrow\\) Scrub \\(\rightarrow\\) Explore \\(\rightarrow\\) Model \\(\rightarrow\\) Interpret
+Obtain $\rightarrow$ Scrub $\rightarrow$ Explore $\rightarrow$ Model $\rightarrow$ Interpret
 
 ## Notebooks
 
