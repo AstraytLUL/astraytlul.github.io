@@ -1,5 +1,6 @@
 ---
 title: "Contact Info"
+hideTitle: true
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">

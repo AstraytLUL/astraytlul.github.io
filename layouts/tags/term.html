@@ -1,4 +1,9 @@
 {{ define "main" }}
+
+<div class="homepage-header">
+    <img src="/images/ayachi-nene-poyayaan.gif" alt="{{ .Title }}" class="homepage-gif">
+</div>
+
 <h1>{{ .Title }}</h1>
 
 <p>{{ .Pages | len }} posts tagged with "{{ .Title }}"</p>

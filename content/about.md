@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+hideTitle: true
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
