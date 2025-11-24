@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Contact Info"
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
