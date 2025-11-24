@@ -1,9 +1,26 @@
 {{ define "main" }}
 <article>
-    <h2>{{ .Title }}</h2>
+    <h1>{{ .Title }}</h1>
     {{ if eq .Section "posts" }}
-    <time>{{ .Date.Format "2006-01-02" }}</time>
+    <div class="post-meta">
+        <time>{{ .Date.Format "2006-01-02" }}</time>
+        {{ if .Params.tags }}
+        <span class="tags">
+            {{ range .Params.tags }}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="tag">#{{ . }}</a>
+            {{ end }}
+        </span>
+        {{ end }}
+    </div>
     {{ end }}
+    
+    {{ if and (eq .Section "posts") (.TableOfContents) }}
+    <details class="toc">
+        <summary><i class="fas fa-list"></i> Table of Contents</summary>
+        {{ .TableOfContents }}
+    </details>
+    {{ end }}
+    
     <div class="content">
         {{ .Content }}
     </div>
