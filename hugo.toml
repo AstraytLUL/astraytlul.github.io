@@ -8,3 +8,6 @@ title = "Astrayt's Blog"
     lineNos = true
     lineNumbersInTable = true
     noClasses = false
+
+[markup.goldmark.renderer]
+  unsafe = true

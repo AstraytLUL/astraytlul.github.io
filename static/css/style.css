@@ -287,3 +287,30 @@ footer {
 .code-block .lntd:last-child {
     width: 100%;
 }
+
+/* Contact page */
+.contact-list {
+    margin-top: 2rem;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    font-size: 1rem;
+}
+
+.contact-item i {
+    width: 1.5rem;
+    font-size: 1.2rem;
+    color: var(--link-color);
+}
+
+.contact-item a {
+    color: var(--text-color);
+}
+
+.contact-item a:hover {
+    color: var(--link-color);
+}
