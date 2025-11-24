@@ -1,5 +1,8 @@
 {{ define "main" }}
-<h2>{{ .Title }}</h2>
+
+<div style="text-align: center; margin-bottom: 2rem;">
+    <img src="/images/amane_and_kurumi.gif" alt="About me" style="max-width: 300px; width: 100%; border-radius: 8px;">
+</div>
 
 {{ range .Pages.GroupByDate "2006" }}
 <h3>{{ .Key }}</h3>

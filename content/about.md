@@ -1,7 +1,12 @@
 ---
-title: "About Me"
+title: ""
 ---
-## Hello!
+
+<div style="text-align: center; margin-bottom: 2rem;">
+    <img src="/images/murasame-headpat.gif" alt="About me" style="max-width: 300px; width: 100%; border-radius: 8px;">
+</div>
+
+## Basic Info
 
 I'm Min-Jen Wang (王民人). I usually go by the handle **"Astrayt"** on the Internet.
 
@@ -48,6 +53,7 @@ I'm currently exploring several directions in my academic and career journey:
 When I'm not coding or studying, you'll find me:
 - Playing Games:
     - Maimai DX (griding for 16000 and 彩将)
+        - Check out my Best 50 [here](https://maimai.shiftpsh.com/en/profile/astrayt/home)! (Thank you Shiftpsh for the amazing website!)
     - Osu! Standard
         - Peak rank #5,373 on 18th June, 2020
     - League of Legends
