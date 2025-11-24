@@ -1,0 +1,6 @@
+<div class="code-block">
+    {{- if .Type -}}
+    <div class="code-lang">{{ .Type }}</div>
+    {{- end -}}
+    {{- highlight .Inner .Type "" -}}
+</div>
