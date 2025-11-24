@@ -9,7 +9,7 @@
     --text-color: #333;
     --text-secondary: #666;
     --link-color: #0066cc;
-    --link-visited: #551a8b;
+    --link-visited: #1364b6;
     --border-color: #eee;
     --toc-bg: #e3f2fd;
 }
@@ -89,19 +89,47 @@ header nav {
 
 .theme-toggle {
     background: none;
-    border: 1px solid var(--text-secondary);
-    border-radius: 4px;
-    padding: 2px 8px;
+    border: none;
+    padding: 4px;
     cursor: pointer;
-    font-size: 0.75rem;
     color: var(--text-secondary);
-    margin-left: 1.5rem;
+    margin-left: 1rem;  /* 從 1.5rem 改成 1rem */
+    display: flex;
+    align-items: center;
 }
 
 .theme-toggle:hover {
     color: var(--text-color);
-    border-color: var(--text-color);
 }
+
+.theme-toggle svg {
+    vertical-align: middle;
+    height: 1.4em;  /* 從 1.2em 改成 1.4em 或更大 */
+    transition: transform 0.3s ease;
+}
+
+
+.theme-toggle:hover .sun {
+    transform: rotate(-15deg);
+}
+
+.theme-toggle:hover .moon {
+    transform: rotate(-15deg);
+}
+
+.theme-toggle .sun,
+.theme-toggle .moon {
+    display: none;
+}
+
+[data-theme="dark"] .theme-toggle .sun {
+    display: inline;
+}
+
+[data-theme="light"] .theme-toggle .moon {
+    display: inline;
+}
+
 
 main h1 {
     margin-bottom: 0.5rem;
@@ -403,8 +431,8 @@ footer {
 }
 
 .tag {
-    background: var(--border-color);
     color: var(--text-secondary);
+    
     padding: 0.2rem 0.6rem;
     border-radius: 3px;
     font-size: 0.8rem;
@@ -412,9 +440,16 @@ footer {
 }
 
 .tag:hover {
-    background: var(--link-color);
     color: white;
     text-decoration: none;
+}
+
+.tag:visited {
+    color: var(--text-secondary);
+}
+
+.tag:visited:hover {
+    color: white;
 }
 
 .tag-item {
