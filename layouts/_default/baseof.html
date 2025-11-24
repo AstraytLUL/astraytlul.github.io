@@ -33,7 +33,7 @@
                 <a href="/posts/">Posts</a>
                 <a href="/about/">About</a>
                 <a href="/contact/">Contact</a>
-                <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" id="theme-btn">Light</button>
+                <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" id="theme-btn"></button>
             </span>
         </nav>
     </header>
@@ -44,19 +44,38 @@
         <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
     </footer>
     <script>
-        function updateButtonText() {
-            const theme = document.documentElement.getAttribute('data-theme');
+        (function() {
             const btn = document.getElementById('theme-btn');
-            btn.textContent = theme === 'dark' ? 'Light' : 'Dark';
-        }
+            const theme = document.documentElement.getAttribute('data-theme');
+            btn.innerHTML = theme === 'dark' ? 'Light' : 'Dark';
+        })();
+        
         function toggleTheme() {
             const currentTheme = document.documentElement.getAttribute('data-theme');
             const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
             document.documentElement.setAttribute('data-theme', newTheme);
             localStorage.setItem('theme', newTheme);
-            updateButtonText();
+            const btn = document.getElementById('theme-btn');
+            btn.innerHTML = newTheme === 'dark' ? 'Light' : 'Dark';
         }
-        updateButtonText();
+
+        function copyCode(button) {
+            const codeBlock = button.closest('.code-block');
+            const code = codeBlock.querySelector('pre code') || codeBlock.querySelector('pre');
+            const text = code.textContent;
+            
+            navigator.clipboard.writeText(text).then(() => {
+                const copyText = button.querySelector('.copy-text');
+                const originalText = copyText.textContent;
+                copyText.textContent = 'Copied!';
+                button.classList.add('copied');
+                
+                setTimeout(() => {
+                    copyText.textContent = originalText;
+                    button.classList.remove('copied');
+                }, 2000);
+            });
+        }
     </script>
 </body>
 </html>

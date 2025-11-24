@@ -230,3 +230,60 @@ footer {
 [data-theme="dark"] .content table tr:hover {
     background: rgba(255, 255, 255, 0.05);
 }
+
+/* Code block header */
+.code-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1e1e1e;
+    padding: 0.4rem 0.75rem;
+}
+
+.code-lang {
+    font-size: 0.75rem;
+    color: #75715e;
+    font-family: monospace;
+}
+.copy-button {
+    background: none;
+    border: none;
+    color: #75715e;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.7rem;
+    cursor: pointer;
+    font-family: monospace;
+    transition: color 0.2s;
+}
+
+.copy-button:hover {
+    color: #a6e22e;
+}
+
+.copy-button.copied {
+    color: #a6e22e;
+}
+
+.copy-text {
+    font-size: 0.75rem;
+}
+
+/* Fix line numbers spacing */
+.code-block .lntable {
+    border-spacing: 0;
+    padding: 0;
+}
+
+.code-block .lntd {
+    padding: 0;
+}
+
+.code-block .lnt,
+.code-block .ln {
+    padding-right: 1rem;
+    color: #75715e;
+}
+
+.code-block .lntd:last-child {
+    width: 100%;
+}
