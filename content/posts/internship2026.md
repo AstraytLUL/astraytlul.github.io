@@ -43,7 +43,7 @@ This is the Chinese version, for English version please see the post [here](http
 - (not) Honorable Mentioned
   - SIG, Akuna, IMC, DRW… 多到列舉不完的公司也做過他們的 OA，說實話都不難但是明明拿滿了卻還是一直被拒絕很搞心態，不過到最後我已經麻痺了
 
-  ## 整體心得
+## 整體心得
 其實 2026 Summer 的實習我從三月就開始了，不過那時候只有 Optiver 一家有開，實際開始投還要等到六月份，結果沒想到一投就是半年，甚至直到三月才等到最終的結果，這也就是為什麼我心得文寫得這麼慢（並沒有，其實只是懶）
 
 因為 2025 年初得知這些 quant 到底開多少錢之後便著了魔想進，還跑去玩了什麼 WorldQuant Brain，還有一堆有的沒有的認證。這些東西對我的履歷簡直一點影響都沒有，單純浪費時間浪費錢，可見我當時有多蠢

@@ -63,7 +63,7 @@ This time around, I mainly targeted Software Engineer (SWE), Quantitative Trader
 * **(Not) Honorable Mentions**
   * **SIG, Akuna, IMC, DRW…** the list of companies where I did OAs is endless. Honestly, the OAs weren't hard, but somehow they won't even interview you even you got full marks. Being constantly rejected was draining... At the end, I was just numb to it.
 
-  ## Overall Reflections
+## Overall Reflections
 
 Actually, my search for the 2026 Summer internship started as early as March, though back then only Optiver had opened their applications. The real grind didn't start until June, and I never expected it to last six months, and even stretching all the way to March before I got the final result. That’s why I’ve been so slow to write this reflection (not really; I’m actually just lazy).
 
