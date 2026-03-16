@@ -39,7 +39,7 @@ This time around, I mainly targeted Software Engineer (SWE), Quantitative Trader
   * They realized I didn't actually know Transformers and ghosted me. Another team reached out for an interview in February, but I turned them down for several reasons (UofT exchange, waiting for Google's offer, wanting to stay in Taiwan in summer)
 * **Virtu Financial (SG) – SWE**
   * **Result:** First round, Rejected
-  * By the time I interviewed here, I had basically given up. I was exhausted, and since the Google interview went well, I was kind of slacking. The questions leaned toward System Design, which I bad at.
+  * By the time I interviewed here, I had basically given up. I was exhausted, and since the Google interview went well, I was kind of slacking. The questions leaned toward System Design, which I'm bad at.
 * **GSA Capital (UK) – SWE**
   * **Result:** Second round, Rejected
   * The interview experience here was actually great. However, because I truly didn't know System Design, I completely blew the second round.
