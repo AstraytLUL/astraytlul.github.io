@@ -3,9 +3,6 @@ date = '2026-03-16T12:54:00-04:00'
 draft = false
 title = '[English] 2026 Summer Internship Search Recap'
 +++
-
-# [English] 2026 Summer Internship Search Reflection
-
 This is the English version, for Chinese version please see the post [here](https://astraytlul.github.io/posts/internship2026/).
 
 Out of pure laziness, I just asked Gemini Pro to translate for me.
