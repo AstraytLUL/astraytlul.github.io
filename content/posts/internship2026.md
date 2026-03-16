@@ -4,7 +4,7 @@ draft = false
 title = '[中文] 2026 Summer Internship Search 心得'
 +++
 
-This is the Chinese version, for Chinese version please see the post here.
+This is the Chinese version, for English version please see the post [here](https://astraytlul.github.io/posts/internship2026-english/).
 
 ## 前言
 
