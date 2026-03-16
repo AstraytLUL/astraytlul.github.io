@@ -23,43 +23,27 @@ This time around, I mainly targeted Software Engineer (SWE), Quantitative Trader
 * **Google (TW) – SWE**
   * **Result:** Accepted Offer
   * I was terrified of ending up empty-handed, even though I had a decent feeling about this one. The process was actually quite messy—lots of rescheduling and even a no-show. It dragged on forever (applied in November, got the result in March), but hey, thanks for the job. Yay!
-
-
 * **Jane Street (HK) – SWE**
   * **Result:** Final round (Onsite), Rejected
   * They sent an interview invite right when I was feeling most hopeless (rejected in July, but they reached out again in October). After practicing with several seniors and classmates, I cleared the first round. Although the final round went poorly due to communication and comprehension issues, I feel like I gave it my all. Getting to tour their office, eat roast goose in a five-star hotel, and watch the Worlds finals was enough for me. I went home with a "whatever happens, happens" mindset.
-
-
 * **Citadel Securities (SG) – SWE**
   * **Result:** First round, Rejected
   * To be honest, I wasn't prepared. They grilled me on OOP concepts that I hadn't brushed up on, plus some very specific C++ knowledge. I tanked it in the first round.
-
-
 * **Jump Trading (SG) – SWE**
   * **Result:** Passed OA, Rejected after HR round
   * I think I yapped too much. I went way off-track, which led to an embarrassing fail at the HR stage. Pretty humiliating.
-
-
 * **Optiver (SG) – QT**
   * **Result:** Zoom Interview, Rejected
   * I actually applied for the *FutureFocus* program. The interview was the final stage, but you still had to perform well within the program to get the offer. They figured out I didn't know math or how to trade, so I got rejected.
-
-
 * **TikTok (SG) – MLLM Engineer**
   * **Result:** First round, Rejected
-  * They realized I didn't actually know Transformers and ghosted me. Another team reached out for an interview in February, but I turned them down for several reasons (UofT exchange, waiting for Google's offer, wanting to stay in Taiwan in summer) 
-
-
+  * They realized I didn't actually know Transformers and ghosted me. Another team reached out for an interview in February, but I turned them down for several reasons (UofT exchange, waiting for Google's offer, wanting to stay in Taiwan in summer)
 * **Virtu Financial (SG) – SWE**
   * **Result:** First round, Rejected
   * By the time I interviewed here, I had basically given up. I was exhausted, and since the Google interview went well, I was kind of slacking. The questions leaned toward System Design, which I bad at.
-
-
 * **GSA Capital (UK) – SWE**
   * **Result:** Second round, Rejected
   * The interview experience here was actually great. However, because I truly didn't know System Design, I completely blew the second round.
-
-
 * **(Not) Honorable Mentions**
   * **SIG, Akuna, IMC, DRW…** the list of companies where I did OAs is endless. Honestly, the OAs weren't hard, but somehow they won't even interview you even you got full marks. Being constantly rejected was draining... At the end, I was just numb to it.
 
