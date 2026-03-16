@@ -2,6 +2,8 @@
 date = '2026-03-16T12:53:59-04:00'
 draft = false
 title = '[中文] 2026 Summer Internship Search 心得'
+tags:
+  - Internship
 +++
 
 This is the Chinese version, for English version please see the post [here](https://astraytlul.github.io/posts/internship2026-english/).
