@@ -22,14 +22,14 @@ I like to write code and do math.
     - **U of Toronto**: Exchange during 2026 Winter.
 - **Competitive Programming**: 
     - **Codeforces**: Max Rating 1985 (Candidate Master)
-    - **ICPC**: Asia Pacific Championship Finalist (2024 Hanoi)
+    - **ICPC**: Asia Pacific Championship Finalist (2024 Hanoi and 2026 Taoyuan), Regional Medalist (2025 Silver @ Ho Chi Minh City)
 - **Work Experiences**:
     - **NTU Undergraduate Researcher**: Aug 2024 - Jun 2025
         - Optimized Fast Integer Multiplication Algorithms
     - **Huawei Singapore**: May 2025 - Dec 2025
         - Worked on LLM agents and RL post-training.
         - Tester of [2025 ICPC Challenge](https://codeforces.com/blog/entry/148279) (Generated test cases, tested various solutions)
-    - Searching for 2026 Summer Internship
+    - **Google Taiwan**: June 2026 - Aug 2026
 
 ## What I'm Working On
 
@@ -58,15 +58,15 @@ When I'm not coding or studying, you'll find me:
     - Osu! Standard
         - Peak rank #5,373 on 18th June, 2020
     - League of Legends
-        - Fan of: 2018 Invictus Gaming, 2020 Damwon, 2023 T1, 2025 CTBC Flying Oyster
+        - Fan of: 2020 DWG, 2023 T1, 2025 CFO
         - Top/Mid/Bot, sometimes JG
-        - I like to play Dr. Mundo and Gwen recently, as well as Varus (with 2024 T1 skin).
+        - I play Yone and Mundo.
     - Apex Legends
         - Diamond in Season 12
     - Rainbow Six: Siege
         - Platium II in Y5S1
     - Counter Strike 2
-        - Used to play CS:GO
+        - I want to unbox some cases hehe
     - Sudoku
     - Minesweeper
     - Solitaire
