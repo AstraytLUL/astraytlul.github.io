@@ -54,7 +54,7 @@ I'm currently exploring several directions in my academic and career journey:
 When I'm not coding or studying, you'll find me:
 - Playing Games:
     - Maimai DX (griding for 16000 and 彩将)
-        - Check out my Best 50 [here](https://maimai.shiftpsh.com/en/profile/astrayt/home)! (Thank you Shiftpsh for the amazing website!)
+        - Check out my Best 50 [here](https://maimai.shiftpsh.com/en/profile/astrayt/home)! (Thank you shiftpsh for the amazing website!)
     - Osu! Standard
         - Peak rank #5,373 on 18th June, 2020
     - League of Legends

@@ -43,7 +43,7 @@ This time around, I mainly targeted Software Engineer (SWE), Quantitative Trader
 * **GSA Capital (UK) – SWE**
   * **Result:** Second round, Rejected
   * The interview experience here was actually great. However, because I truly didn't know System Design, I completely blew the second round.
-* **(Not) Honorable Mentions**
+* **(not) Honorable Mentions**
   * **SIG, Akuna, IMC, DRW…** the list of companies where I did OAs is endless. Honestly, the OAs weren't hard, but somehow they won't even interview you even you got full marks. Being constantly rejected was draining... At the end, I was just numb to it.
 
 ## Overall Reflections

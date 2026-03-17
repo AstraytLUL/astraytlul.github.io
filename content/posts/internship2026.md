@@ -18,32 +18,32 @@ This is the Chinese version, for English version please see the post [here](http
 
 ## 面試經驗與心得
 
-- Google (TW) SWE
+- **Google (TW) SWE**
   - Accepted Offer
   - 雖然我很怕最後沒拿到 Offer 但其實心裡蠻有底的，但是面試過程很不順，一直 reschedule 甚至還 no show，過程又很拖（11 月申請 3 月才拿到結果），不過還是謝謝他們給我一份工作，耶
-- Jane Street (HK) SWE
+- **Jane Street (HK) SWE**
   - Final round (onsite), rejected
   - 在我最絕望的時候給我發來一封面試邀請（ 7 月被拒一次後 10 月又寄來），在面試前跟很多學長/同學/學弟做了練習後成功通過了一面，雖然終面時因為溝通和理解上的問題導致表現很差，但是最後感覺已經盡力了，能去參觀他們辦公室、在五星級飯店吃燒鵝看世界賽決賽已經讓我很滿足了，所以回去後的心態就是隨緣了
-- Citadel Securities (SG) SWE
+- **Citadel Securities (SG) SWE**
   - First round, rejected
   - 說實話其實感覺沒做好準備，他問我很多 OOP Concept 我沒怎麼做準備就有點爆炸，然後還有一些比較細的 C++ Knowledge，第一輪就倒了
-- Jump Trading (SG) SWE
+- **Jump Trading (SG) SWE**
   - Passed OA, rejected after HR round
   - 我感覺我廢話太多了，到最後非常偏題導致我不幸掛在了 HR round，相當丟臉
-- Optiver (SG) QT
+- **Optiver (SG) QT**
   - Zoom Interview, rejected
   - 其實我是投 FutureFocus，面試是最後一輪但還是要在他的 Program 裡面表現好才能拿到 Offer，被發現不會數學也不會做交易就被拒了
-- TikTok (SG) MLLM Engineer
+- **TikTok (SG) MLLM Engineer**
   - First round, rejected
   - 我被發現其實不會 Transformers 他們就沒理我了，但後來有其他 Team 在二月的時候找我面試，不過我因為想去 Google + 在加拿大就拒絕了
-- Virtu Financial (SG) SWE
+- **Virtu Financial (SG) SWE**
   - First round, rejected
   - 其實面這家的時候有點半放棄了，因為那時候很累，加上面完 Google 後感覺結果還不錯，基本上有點擺爛了，題目偏 System Design 但我不會
-- GSA Capital (UK) SWE
+- **GSA Capital (UK) SWE**
   - Second round, rejected
   - 我覺得他這家的面試體驗真的很好，但是因為我真的不會 System Design 所以直接爆炸
-- (not) Honorable Mentioned
-  - SIG, Akuna, IMC, DRW… 多到列舉不完的公司也做過他們的 OA，說實話都不難但是明明拿滿了卻還是一直被拒絕很搞心態，不過到最後我已經麻痺了
+- **(not) Honorable Mentioned**
+  - **SIG, Akuna, IMC, DRW…** 多到列舉不完的公司也做過他們的 OA，說實話都不難但是明明拿滿了卻還是一直被拒絕很搞心態，不過到最後我已經麻痺了
 
 ## 整體心得
 其實 2026 Summer 的實習我從三月就開始了，不過那時候只有 Optiver 一家有開，實際開始投還要等到六月份，結果沒想到一投就是半年，甚至直到三月才等到最終的結果，這也就是為什麼我心得文寫得這麼慢（並沒有，其實只是懶）
