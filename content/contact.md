@@ -24,7 +24,7 @@ hideTitle: true
 
 <div class="contact-item">
     <i class="fab fa-twitter"></i>
-    <a href="mailto:https://x.com/AstraytLUL">Twitter</a>
+    <a href="https://x.com/AstraytLUL">Twitter</a>
 </div>
 
 <div class="contact-item">
