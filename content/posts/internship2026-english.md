@@ -30,6 +30,7 @@ This time around, I mainly targeted Software Engineer (SWE), Quantitative Trader
 * **Jump Trading (SG) – SWE**
   * **Result:** Passed OA, Rejected after HR round
   * I think I yapped too much. I went way off-track, which led to an embarrassing fail at the HR stage. Pretty humiliating.
+  * 2026/3/30 Update: They invited me for another interview. I have no idea on why or what role I'm doing for, but I'm giving it a shot
 * **Optiver (SG) – QT**
   * **Result:** Zoom Interview, Rejected
   * I actually applied for the *FutureFocus* program. The interview was the final stage, but you still had to perform well within the program to get the offer. They figured out I didn't know math or how to trade, so I got rejected.

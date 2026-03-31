@@ -29,6 +29,7 @@ This is the Chinese version, for English version please see the post [here](http
 - **Jump Trading (SG) SWE**
   - Passed OA, rejected after HR round
   - 我感覺我廢話太多了，到最後非常偏題導致我不幸掛在了 HR round，相當丟臉
+  - 2026/3/30 更新：他們又找我來面試了，我完全不知道是為啥還有是哪個缺，但試試看也好
 - **Optiver (SG) QT**
   - Zoom Interview, rejected
   - 其實我是投 FutureFocus，面試是最後一輪但還是要在他的 Program 裡面表現好才能拿到 Offer，被發現不會數學也不會做交易就被拒了
